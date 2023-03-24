@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { SocialIcon } from 'react-social-icons';
 import './About.css';
+
+// Hello Friends its the new repo
  
 
 function About() {
