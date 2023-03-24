@@ -1,0 +1,35 @@
+.main-row-home-1 {
+  margin: 20px 20px;
+  /* background-color: brown; */
+  width: auto;
+}
+
+.card {
+  transition: all 0.5s ease;
+  margin: 20px auto;
+}
+
+.card:hover {
+  transition: all 0.4s ease;
+  transform: translate3D(0,-1px,0) scale(1.20);
+}
+
+
+
+
+.card-image{
+  height: 300px;
+  width: 300px;
+  transition: all 0.5s ease;
+  margin: 30px;
+  /* border: 2px solid black; */
+  border-radius: 10%;
+  box-shadow: 0 0 10px 1px grey;
+}
+
+.card-image:hover {
+  transition: all 0.4s ease;
+  transform: translate3D(0,-1px,0) scale(1.20);
+}
+
+
